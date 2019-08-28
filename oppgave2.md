@@ -1,6 +1,6 @@
 # Oppgave 2
 
-Denne oppgaven tar utgangspunkt i et eksempel-repo. Fork repoet før du begynner: https://github.com/sindrenordbo/eksempelrepo-1
+Denne oppgaven tar utgangspunkt i et eksempel-repo. Fork repoet før du begynner: https://github.com/sindrebn/eksempelrepo-1
 
 ### 1. Opprette pull request
 
@@ -24,6 +24,8 @@ Løs konfliktene etterhvert som de oppstår
 ```
 
 Legg merke til at vi må gjøre en såkalt _«force push»_ for å kunne pushe den rebasede branchen vår for å indikere at du er klar over at du skriver over endringer remote.
+
+⚠️ Når du _force pusher_ kan du skape trøbbel for andre som har klonet repoet. Tenk deg nøye om og spør en venn før du _force pusher_ til et repo flere jobber på.
 
 💡 I motsetning til ved en merge hvor du får alle konfliktene på én gang, vil du nå løse konfliktene commit for commit. Løs konflikter som i sted, men gjør `git rebase --continue` for å spole deg fremover i historikken. Du kan når som helst gjøre `git rebase --abort` hvis du gjør feil og vil begynne på nytt.
 
