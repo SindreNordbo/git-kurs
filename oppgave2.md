@@ -35,4 +35,4 @@ Merge pull requesten fra GitHub.
 
 ## Bonusoppgave
 
-Installer [`hub`](https://github.com/github/hub), og bruk verktøyet for å opprette en pull request.
+Installer [`hub`](https://github.com/github/hub) eller [GitHub CLI](https://cli.github.com/), og bruk verktøyet for å opprette en pull request.
