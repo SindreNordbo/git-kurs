@@ -1,4 +1,4 @@
-# Git-kurs, 29. august 2019
+# Git-kurs, 24. august 2020
 
 - [Oppgave 1](oppgave1.md)
 - [Oppgave 2](oppgave2.md)
